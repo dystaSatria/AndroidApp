@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991294245619",
+    "project_id": "gnr-yurdu-rezervasyon",
+    "storage_bucket": "gnr-yurdu-rezervasyon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991294245619:android:17cd44cca112e816e04586",
+        "android_client_info": {
+          "package_name": "com.example.gnryurdurezervasyon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB73EAB_OXeCZiHKxAFRuPTlSsz5YrOS-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
